@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a4a1c0a96111622f358dd8dad1becd4dba6b63952bd57376213ee8bc91f01bed"
+            "sha256": "baac00b7f0ec62032e5f5fb8ac4d888814fe6baa046c1dd2a10f8bfa9eb34859"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,7 +31,7 @@
             "version": "==0.10.0"
         },
         "descarteslabs-internal": {
-            "file": "https://storage.googleapis.com/dl-workflows-pypi/v0-1/v2019.06.07-10-ga5f3c066/descarteslabs-internal.tar.gz"
+            "file": "https://storage.googleapis.com/dl-workflows-pypi/v0-2/v2019.06.100-2/descarteslabs-internal.tar.gz"
         },
         "kiwisolver": {
             "hashes": [
