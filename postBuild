@@ -5,5 +5,5 @@ eval "$(conda shell.bash hook)"
 
 conda activate kernel
 # ^ the env that actually contains the interpreter defined in `runtime.txt`
-pipenv install --system --deploy
-# install dependencies from Pipfile; fail if they don't match with Pipfile.lock
+pipenv install --system --ignore-pipfile
+# install dependencies from Pipfile.lock
