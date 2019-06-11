@@ -1,3 +1,4 @@
 #!/bin/bash
 
-pipenv sync --system
+pipenv install --system --ignore-pipfile
+# --ignore-pipfile uses Pipfile.lock instead
