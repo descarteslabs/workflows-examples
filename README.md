@@ -14,4 +14,4 @@ Use the [Binder](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/mas
 
 Follow the instructions to authenticate with your Descartes Labs credentials, then open any of the example notebooks and run them.
 
-**Note:** Workflows is currently a restricted feature. Though this repository is public and you can play around with the client code, the backend will reject requests from non-whitelisted accounts.
+**Note: Workflows is currently a restricted feature.** Though this repository is public and you can play around with the client code, the backend will reject requests from non-whitelisted accounts.
