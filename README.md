@@ -1,6 +1,6 @@
 # Workflows Examples
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/master?urlpath=/lab/tree/login-notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/master?urlpath=/lab/tree/log-in-for-binder.ipynb)
 
 A repository of [example notebooks](examples) using the Workflows API.
 
@@ -8,7 +8,7 @@ Workflows offers some notebook-specific features (like interactive visualization
 
 ## Running these examples in Binder
 
-Use the [Binder](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/master?urlpath=/lab/tree/login-notebook.ipynb) to launch a JupyterHub instance with the Workflows client and all dependencies pre-installed.
+Use the [Binder](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/master?urlpath=/lab/tree/log-in-for-binder.ipynb) to launch a JupyterHub instance with the Workflows client and all dependencies pre-installed.
 
 **Only use Python 2**. The Workflows backend is currently incompatible with Python 3 (though this will soon be fixed and Python 2 will be deprecated).
 
