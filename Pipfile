@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+matplotlib = "*"
+ipython = "*"
+descarteslabs-internal = {file = "https://storage.googleapis.com/dl-workflows-pypi/v0-1/v2019.06.07-10-ga5f3c066/descarteslabs-internal.tar.gz"}
+pandas = "*"
+
+[requires]
+python_version = "2.7"
