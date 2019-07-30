@@ -7,3 +7,7 @@ conda activate kernel
 # ^ the env that actually contains the interpreter defined in `runtime.txt`
 pipenv install --system
 # install dependencies from Pipfile
+
+# install ipyleaflet jupyter extension
+pipenv run install_jupyter
+pipenv run install_jupyterlab

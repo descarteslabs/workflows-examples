@@ -14,3 +14,7 @@ matplotlib = "~=2.2"
 
 [requires]
 python_version = "2.7"
+
+[scripts]
+install_jupyter = "jupyter nbextension enable --py --sys-prefix ipyleaflet"
+install_jupyterlab = "jupyter labextension install jupyter-leaflet @jupyter-widgets/jupyterlab-manager"
