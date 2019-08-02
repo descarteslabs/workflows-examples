@@ -3,7 +3,10 @@ set -eo pipefail
 
 eval "$(conda shell.bash hook)"
 
-conda activate kernel
+conda info --envs
+# ^ helps for debugging if something goes wrong
+
+conda activate notebook
 # ^ the env that actually contains the interpreter defined in `runtime.txt`
 pipenv install --system
 # install dependencies from Pipfile
