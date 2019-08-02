@@ -10,8 +10,6 @@ Workflows offers some notebook-specific features (like interactive visualization
 
 Use the [Binder](https://mybinder.org/v2/gh/descarteslabs/workflows-examples/master?urlpath=/lab/tree/log-in-for-binder.ipynb) to launch a JupyterHub instance with the Workflows client and all dependencies pre-installed.
 
-**Only use Python 2**. The Workflows backend is currently incompatible with Python 3 (though this will soon be fixed and Python 2 will be deprecated).
-
 Follow the instructions to authenticate with your Descartes Labs credentials, then open any of the notebooks in the `examples` directory and run them.
 
 **Note: Workflows is currently a restricted feature.** Though this repository is public and you can play around with the client code, the backend will reject requests from non-whitelisted accounts.
