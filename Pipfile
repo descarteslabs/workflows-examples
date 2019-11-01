@@ -10,7 +10,7 @@ jupyterlab = "*"
 numpy = ">=1.10.0"
 pandas = ">=0.25.0"
 matplotlib = ">=2.1.0"
-descarteslabs = {version = "==0.25.0", extras = ["complete"]}
+descarteslabs = {version = "==0.26.0", extras = ["complete"]}
 mercantile = ">=1.0.4"
 
 [requires]
